@@ -138,7 +138,7 @@ if(!isset($_SESSION['test']))
 //$_SESSION['test']->disconnect();
 //$_SESSION['test']->delete();
 //$_SESSION['test']->update('','','','');
-//echo $_SESSION['test']->isConnected();
+//$_SESSION['test']->isConnected();
 //$_SESSION['test']->getAllInfos();
 //$_SESSION['test']->refresh();
 

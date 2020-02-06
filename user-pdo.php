@@ -138,5 +138,12 @@ if(!isset($_SESSION['test']))
 	{
 		$_SESSION['test'] = new userpdo;
 	}	
-
+//$_SESSION['test']->register("","","","","");
+//$_SESSION['test']->connect("","");
+//$_SESSION['test']->disconnect();
+//$_SESSION['test']->delete();
+//$_SESSION['test']->update('','','','');
+//$_SESSION['test']->isConnected();
+//$_SESSION['test']->getAllInfos();
+//$_SESSION['test']->refresh();
 ?>
