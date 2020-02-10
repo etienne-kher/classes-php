@@ -134,7 +134,7 @@ if(!isset($_SESSION['test']))
 		$_SESSION['test'] = new user;
 	}	
 //$_SESSION['test']->register("","","","","");
-//$_SESSION['test']->connect("pute","pp");
+//$_SESSION['test']->connect("","");
 //$_SESSION['test']->disconnect();
 //$_SESSION['test']->delete();
 //$_SESSION['test']->update('','','','');
